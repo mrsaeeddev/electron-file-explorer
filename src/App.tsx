@@ -1,5 +1,6 @@
 import React from 'react';
 import FilesContainer from './components/FilesContainer/FilesContainer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
@@ -7,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
